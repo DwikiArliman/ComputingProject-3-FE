@@ -2,36 +2,36 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"An intelligent MRI Brain Classification system that uses deep learning to classify brain tumors into four categories: Meningioma, Pituitary, Glioma, and Healthy. Designed to assist in early diagnosis and medical decision-making.",
+		keywords: ["MRI", "Brain Tumor", "Meningioma", "Pituitary", "Glioma", "Healthy", "Deep Learning", "Medical Imaging", "AI", "Brain Scan"],
 	},
 
 	{
 		page: "about",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"This project focuses on applying artificial intelligence to medical imaging, specifically classifying brain MRI scans into four classes using convolutional neural networks (CNN).",
+		keywords: ["MRI Classification", "Brain Tumor Detection", "Medical AI", "Deep Learning", "CNN", "Meningioma", "Pituitary", "Glioma", "Healthy"],
 	},
 
 	{
 		page: "articles",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Explore detailed articles and insights on the development, architecture, and implementation of the MRI Brain Classification system using AI.",
+		keywords: ["MRI Articles", "Medical Imaging AI", "Deep Learning in Healthcare", "Brain Tumor Classification", "Research", "AI in Medicine"],
 	},
 
 	{
 		page: "projects",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"The MRI Brain Classification project is an open-source initiative that uses AI to detect and classify brain tumors. Built with Python and deep learning libraries for reliable results in clinical settings.",
+		keywords: ["MRI Projects", "Brain Tumor AI", "Open Source AI", "Medical Projects", "Tumor Classification", "Healthcare Technology"],
 	},
 
 	{
 		page: "contact",
 		description:
-			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"If you're interested in collaborating on AI-driven medical solutions or enhancing the MRI Brain Classification system, feel free to reach out.",
+		keywords: ["Contact", "Medical AI Collaboration", "Healthcare AI", "Brain MRI Project", "Tumor Detection AI"],
 	},
 ];
 

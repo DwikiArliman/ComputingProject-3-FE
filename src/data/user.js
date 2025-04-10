@@ -21,17 +21,17 @@ const INFO = {
 	},	
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m the developer behind an intelligent MRI Brain Classification system.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"This project focuses on classifying brain tumors using MRI scans into four main categories: Meningioma, Pituitary, Glioma, and Healthy. Built using deep learning techniques, it aims to assist healthcare professionals in early diagnosis and better treatment planning. The entire process—from data preprocessing to model training and evaluation—has been carefully designed for accuracy and real-world application. The project is open-source and welcomes collaboration to push boundaries in medical AI innovation.",
 	},
-
+	
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Exploring the intersection of deep learning and medical diagnostics.",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"A chronological collection of technical write-ups, experiments, and insights into building a robust MRI Brain Classification model. Topics range from CNN architectures, model optimization, dataset challenges, to real-world healthcare applications.",
 	},
-
+	
 	projects: [
 		{
 			title: "Meningioma",
