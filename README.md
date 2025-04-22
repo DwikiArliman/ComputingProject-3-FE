@@ -1,19 +1,17 @@
-
 <h1 align="center">
-  ViTrash
-   <img src="https://github.com/user-attachments/assets/a6107699-5093-4c1c-a202-72d8c09f067a" alt="ViTrash Logo" width="30" style="vertical-align: middle; margin-right: 10px;" />
+  Brain MRI
+  <img src="https://github.com/user-attachments/assets/a6107699-5093-4c1c-a202-72d8c09f067a" alt="Brain MRI Logo" width="30" style="vertical-align: middle; margin-right: 10px;" />
 </h1>
 
+---
+
+> **Description**: This web application helps identify brain MRI abnormalities using artificial intelligence powered by a Hybrid Vision Transformer combined with ResNet50.
 
 ---
 
-> **Description**: This app helps you identify the type of waste using artificial intelligence powered by a Hybrid Vision Transformer combined with ResNet50.
+## 🚀 Getting Started with Brain MRI (React JS)
 
----
-
-## 🚀 Getting Started with ViTrash (React Native)
-
-This guide will help you set up and run the ViTrash React Native project on your local development environment.
+This guide will help you set up and run the **Brain MRI** project on your local development environment using **React JS**.
 
 ---
 
@@ -31,9 +29,9 @@ npm install
 yarn install
 ```
 
-### 🛠️ Step 2: Start Metro Bundler
+### 🛠️ Step 2: Start the Development Server
 
-Metro is the JavaScript bundler for React Native. Start it with:
+Start the React development server:
 
 ```bash
 # using npm
@@ -41,32 +39,6 @@ npm start
 
 # OR using Yarn
 yarn start
-```
-
-## 🤖 Step 3: Run the App
-
-Make sure your Android emulator is running or your physical device is connected with USB debugging enabled.
-
-### 📱 For Android
-
-Open a new terminal and run:
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
 ```
 
 ## Congratulations! :tada:
