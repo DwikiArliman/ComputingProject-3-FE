@@ -43,14 +43,14 @@ yarn start
 
 ## Congratulations! :tada:
 
-You've successfully run and modified your React Native App. :partying_face:
+You've successfully run and modified your React JS Brain MRI web app. 🧠🖥️
 
 
 ## 🚀 Preview
 
-<h2>🌟 Logo</h2>
+<h2>Home Page</h2>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/51c394d8-c10a-4de2-96d6-c78d2173bd32" width="200px">
+  <img src="https://github.com/user-attachments/assets/a776f05d-9c96-4417-8a44-2c09c49ad53d" width="200px">
 </p>
 
 <h2>🏠 Homepage</h2>
