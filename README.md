@@ -58,10 +58,14 @@ You've successfully run and modified your React JS Brain MRI web app. 🧠🖥�
   <img src="https://github.com/user-attachments/assets/7bfe0ed7-7a98-415a-aff4-cddd32442c20">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7bfe0ed7-7a98-415a-aff4-cddd32442c20">
+  <img src="https://github.com/user-attachments/assets/c1b335b3-d775-4e14-841a-68a5ec803735">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d50bf52a-a745-4a63-9264-4290cdff28ca">
 </p>
 
-<h2>📂 Categories</h2>
+
+<h2>📂 Contact</h2>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/745ab7a1-bf3f-49a8-b97d-5e3b16f77181" width="200px">
+  <img src="https://github.com/user-attachments/assets/9477484a-99e8-4c74-97e3-a7cfd818c990">
 </p>
