@@ -1,6 +1,6 @@
 <h1 align="center">
   Brain MRI
-  <img src="https://github.com/user-attachments/assets/7a3acb92-413a-42dd-b9e5-55a59dc6bd60" alt="Brain MRI Logo" width="40" />
+  <img src="https://github.com/user-attachments/assets/7a3acb92-413a-42dd-b9e5-55a59dc6bd60" alt="Brain MRI Logo" width="60" />
 </h1>
 
 ---
