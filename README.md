@@ -73,3 +73,4 @@ You've successfully run and modified your React JS Brain MRI web app. 🧠🖥�
 ## 🙌 Contributing
 
 Contributions are welcome! If you find a bug, or want to add a feature, feel free to open an issue or a pull request.
+# ComputingProject-3-FE
