@@ -1,67 +1,59 @@
 const INFO = {
 	main: {
-		title: "MRI Brain Classification",
+		title: "MRI Batik Classification",
 		name: "Tio Fulalo",
 		email: "fulalotio@gmail.com",
 		logo: "../logo.png",
 	},
 
-	socials: {
-		github: "https://github.com/lalosianturi21",
-		linkedin: "https://www.linkedin.com/in/tio-fulalo-simatupang-5b9547210/",
-		instagram: "https://www.instagram.com/lalosianturi21/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://www.facebook.com/lalosianturi21",
-	},
-
 	homepage: {
-		title: "Brain MRI Classification",
+		title: "Batik MRI Classification",
 		description:
-			"The Brain MRI classification system I developed can identify four categories: Meningioma, Pituitary, Glioma, and Healthy. Using an AI-powered approach, this model assists in detecting and classifying brain abnormalities with high accuracy, supporting faster and more precise medical diagnoses.",
+			"The Batik MRI classification system I developed can identify categories of Batik Using an AI-powered approach, this model assists in detecting and classifying batik patterns in MRI scans.",
 	},	
 
 	about: {
-		title: "I’m the developer behind an intelligent MRI Brain Classification system.",
+		title: "I’m the developer behind an intelligent MRI Batik Classification.",
 		description:
-			"This project focuses on classifying brain tumors using MRI scans into four main categories: Meningioma, Pituitary, Glioma, and Healthy. Built using deep learning techniques, it aims to assist healthcare professionals in early diagnosis and better treatment planning. The entire process—from data preprocessing to model training and evaluation—has been carefully designed for accuracy and real-world application. The project is open-source and welcomes collaboration to push boundaries in medical AI innovation.",
+			"This project focuses on classifying batik patterns using MRI scans to provide description abot the batik.",
 	},
 	
 	articles: {
-		title: "Exploring the intersection of deep learning and medical diagnostics.",
+		title: "Exploring the intersection of deep learning and batik patterns.",
 		description:
-			"A chronological collection of technical write-ups, experiments, and insights into building a robust MRI Brain Classification model. Topics range from CNN architectures, model optimization, dataset challenges, to real-world healthcare applications.",
+			"A chronological collection of technical write-ups, experiments, and insights into building a robust MRI Batik Classification model. Topics range from CNN architectures, model optimization, dataset challenges, and more.",
 	},
 	
 	projects: [
 		{
-			title: "Meningioma",
+			title: "Batik Bali",
 			description:
 				"Meningioma is a type of brain tumor that develops in the meninges, the protective layers of the brain and spinal cord. Although usually benign, this tumor can cause various neurological symptoms depending on its location.",
-			logo: "https://res.cloudinary.com/dci5b8svu/image/upload/v1743604444/meningioma_sq1xca.jpg",
+			logo: "Batik_bali.jpg",
 			link: "#",
 		},
 	
 		{
-			title: "Glioma",
+			title: "Batik Betawi",
 			description:
 				"Glioma is a brain tumor that originates from glial cells, which support the central nervous system. This tumor can be benign or malignant and often affects brain function depending on its size and location.",
-			logo: "https://res.cloudinary.com/dci5b8svu/image/upload/v1743604653/glioma_cr1r1f.jpg",
+			logo: "Batik_betawi.jpg",
 			link: "#",
 		},
 	
 		{
-			title: "Pituitary",
+			title: "Batik Cendrawasih",
 			description:
 				"A pituitary tumor develops in the pituitary gland, which regulates various hormones in the body. While mostly benign, this tumor can cause hormonal imbalances and put pressure on surrounding brain structures.",
-			logo: "https://res.cloudinary.com/dci5b8svu/image/upload/v1743604777/pituitary_vwcok3.jpg",
+			logo: "Batik_cendrawasih.jpg",
 			link: "#",
 		},
 	
 		{
-			title: "Healthy",
+			title: "Batik Dayak",
 			description:
 				"The 'Healthy' category includes MRI brain scans that show no abnormalities or tumors. This data is essential in distinguishing normal conditions from abnormal ones in the classification system.",
-			logo: "https://res.cloudinary.com/dci5b8svu/image/upload/v1743604885/normal_ucjpen.jpg",
+			logo: "Batik_dayak.jpg",
 			link: "#",
 		},
 	]

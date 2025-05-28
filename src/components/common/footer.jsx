@@ -15,15 +15,12 @@ const Footer = () => {
 						<li className="footer-nav-link-item">
 							<Link to="/classification">Classification</Link>
 						</li>
-						<li className="footer-nav-link-item">
-							<Link to="/contact">Contact</Link>
-						</li>
 					</ul>
 				</div>
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2025 Tio Fulalo All Rights Reserved.
+						© 2025 Compro-3 All Rights Reserved.
 					</div>
 				</div>
 			</div>

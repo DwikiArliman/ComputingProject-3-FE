@@ -56,7 +56,7 @@ const Classification = () => {
 	return (
 		<React.Fragment>
 			<Helmet>
-				<title>{`About | ${INFO.main.title}`}</title>
+				<title>{`Classification | ${INFO.main.title}`}</title>
 				<meta name="description" content={currentSEO.description} />
 				<meta
 					name="keywords"
@@ -76,7 +76,7 @@ const Classification = () => {
 					<div className="container">
 						<div className="experience" id="classification">
 							<header className="experience-header">
-								<h1 className="title-classification">Classification Brain</h1>
+								<h1 className="title-classification">Classification Batik</h1>
 								<p>Upload an image from your device to classify it.</p>
 							</header>
 							<main>
